@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<title>Edison Regional Gifted Center Website</title>
+<link href="https://fonts.googleapis.com/css?family=Archivo+Narrow|font-effect-fire-animation" rel="stylesheet"> 
+<style type="text/css">
+body {
+color:#000000;
+font-family: 'Archivo Narrow', sans-serif;
+font-size:21pt;
+  
+background:#FFFFFF;
+margin:0;
+padding:0;
+}
+a:link, a:visited {
+text-decoration:underline;
+color:#0009bc;
+}
+a:active{
+text-decoration:underline;
+color: #0009bc;
+}
+a:hover{
+text-decoration:underline;
+color:#0009bc;
+} 
+  
+h1 {
+text font-effect-fire-animation
+}
+#header { 
+text-align:center;
+height:150px;
+}
+#header img {
+margin:auto;
+}
+#fire {
+font-family: 'Archivo Narrow', font-effect-fire-animation, sans-serif;
+  }
+  
+#container {
+position:relative;
+width:100%;
+}
+#content {
+margin-left:240px;
+margin-right:145px;
+padding:5px;
+}
+#leftmenu {
+position:absolute;
+left:1;
+top:0;
+width:300px;
+padding:5px;
+text-align:left;
+}
+#leftmenu ul {
+list-style-type:none;
+margin:0;
+padding:0 5px;
+}
+</style>
+
+</head>
+<body>
+<div id="About Us">
+  <center><img src="EDISONSTUDENTS.png" alt="Edison Regional Gifted Center Website"></center>
+</div>
+
+<div id="container">
+<div id="content">
+<!-- <p>This is the Official Edison Website: We cover things about Edison</p > -->
+  <B> Welcome </B> to the unofficial Edison Student website- a community portal built for use by Edison and CPS students everywhere.<br>
+  All edits and version control can be found @ our GitHub repo- 1337h4x/student. Enjoy! Make the website your own.
+</div>
+
+<div id="leftmenu">
+<ul>
+
+<li>
+<ul>
+<li><a href="http://edisongifted.com/">Edison Regional Gifted Center Website</a></li><br>
+  <li><a href="/student/index.html">Homepage</a></li>
+  <li><a href="#">Electives</a></li>
+<li><a href="#">Projects in Progress</a></li>
+  <li><a href="#">Finished Projects</a></li>
+<li><a href="#">School Current Events</a></li>
+  <li><a href="/student/pages/hotnews.html">Hot News</a></li>
+<li><a href="/student/pages/aboutus.html">About Us</a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+
+
+</div>
+</body>
+<html>
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
+<style>
+table, th, td {border: 1px solid black;}
+</style>
+
+<table style="width:100%">
+  <tr>
+    <th>Month</th>
+    <th>.</th> 
+    <th>.</th>
+    <th>Febuary</th>
+    <th>.</th>
+    <th>.</th>
+    <th>2017</th>
+  </tr>
+  <tr>
+    <td>1st</td>
+    <td>2rd</td>
+    <td>3rd</td>
+    <td>4th</td>
+    <td>5th</td>
+    <td>6th</td>
+    <td>7th</td>
+  </tr>
+  <tr>
+    <td>8th</td> 
+    <td>9th</td> 
+    <td>10th</td>
+    <td>11th</td>
+    <td>12th</td>
+    <td>13th</td>
+    <td>14th</td>
+  </tr>
+  <tr>
+    <td>15th</td>
+    <td>15th</td> 
+    <td>16th</td>
+    <td>17th</td>
+    <td>18th</td>
+    <td>19th</td>
+    <td>20th</td>
+  </tr>
+  <tr>
+    <td>21th</td>
+    <td>22th</td> 
+    <td>23th</td>
+    <td>24th</td>
+    <td>25th</td>
+    <td>26th</td>
+    <td>27th</td>
+   </tr>
+</table>
